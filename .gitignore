@@ -1,0 +1,10 @@
+*.class
+*.war
+*.classpath
+*.settings
+*.project
+*.log
+*target
+*metadata
+*Servers
+.springBeans
